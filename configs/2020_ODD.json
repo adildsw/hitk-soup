@@ -1,0 +1,12 @@
+{
+    "url": "http://136.232.2.202:8084/student20o.aspx",
+    "roll_tb_name": "roll",
+    "sem_dd_name": "sem",
+    "submit_bt_name": "Button1",
+    "name_id": "lblname",
+    "reg_id": "lblrg",
+    "roll_id": "lblroll",
+    "sgpao_id": "lblbottom1",
+    "sgpae_id": "lblbottom2",
+    "ygpa_id": "lblbottom3"
+}
